@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $"tow decimal n" /n
+
